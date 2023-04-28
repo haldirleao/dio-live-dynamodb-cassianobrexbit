@@ -1,4 +1,7 @@
-# dio-live-dynamodb
+## Notas haldirleao 28/04/2023
+Fork do repositório para estudar o módulo "Boas práticas com DynamoDB" do bootcamp Banco PAN Java Developer.
+
+## dio-live-dynamodb
 Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
 
 ### Serviço utilizado
